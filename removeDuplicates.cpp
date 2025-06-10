@@ -25,5 +25,7 @@ int main(){
 	for(int i=0; i<res; i++){
 		cout<<arr[i]<<" ";
 	}
+	cout<<endl;
+	cout<<res;
 
 }
